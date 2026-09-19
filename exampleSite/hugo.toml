@@ -97,7 +97,7 @@ enableGitInfo = true
   name = "Some Person"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
-  github = "username"
+  github = "halogenica/beautifulhugo"
   twitter = "username"
   linkedin = "in/username" # company/username
 
