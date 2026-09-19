@@ -23,6 +23,8 @@ title: Beautiful Hugo
 - `callout` — Bootstrap alert boxes
 - `include-code` — external source files
 - `no-ai-summary` — exclude from AI summaries
+- `video` — visualise self-hosted/local videos
+- `icon` — render Font Awesome icon
 
 {{< column >}}
 
